@@ -23,7 +23,7 @@ a {
 
 header {
   height: calc(100vh - 150px);
-  background: no-repeat center/cover url('/assets/heineken_moon.jpg');
+  background-image: url('/assets/heineken_moon.jpg');
 }
 
 
