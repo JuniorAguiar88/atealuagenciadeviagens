@@ -12,9 +12,3 @@ Alguns funcionalidade abordadas neste projeto.
 -   Consultas de mídia
     -   Todo o site é responsivo a smartphones, tablets e desktops.
     
-## Mobile Behavior
-  ![enter image description here]() 
-
-
-## Desktop Behavior
-![enter image description here]()
