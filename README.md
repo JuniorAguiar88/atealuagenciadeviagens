@@ -12,3 +12,4 @@ Alguns funcionalidade abordadas neste projeto.
 -   Consultas de mídia
     -   Todo o site é responsivo a smartphones, tablets e desktops.
     
+- Site responsivo
